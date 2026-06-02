@@ -30,7 +30,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 580,
-      "messages": ["do you enjoy the game?!!:)"]
+      "messages": ["do you enjoying the game?!!:)"]
     },
     "chat-log": true,
     "auto-reconnect": true,
